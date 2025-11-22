@@ -1,0 +1,140 @@
+[
+    {
+        "title": "16 uglya za 1 almaz",
+        "result": {
+            "id": "minecraft:diamond",
+            "count": 1
+        },
+        "price": [
+            { "id": "minecraft:coal", "count": 16 }
+        ]
+    },
+    {
+        "title": "5 khleba za 1 izumrud",
+        "result": { "id": "minecraft:bread", "count": 5 },
+        "price": [
+            { "id": "minecraft:emerald", "count": 1 }
+        ]
+    },
+    {
+        "title": "1 almaz -> 8 zheleznykh slitkov",
+        "result": { "id": "minecraft:iron_ingot", "count": 8 },
+        "price": [
+            { "id": "minecraft:diamond", "count": 1 }
+        ]
+    },
+    {
+        "title": "32 doski duba za 1 zolotoy slitok",
+        "result": { "id": "minecraft:oak_planks", "count": 32 },
+        "price": [
+            { "id": "minecraft:gold_ingot", "count": 1 }
+        ]
+    },
+    {
+        "title": "64 fakela za 1 ugol",
+        "result": { "id": "minecraft:torch", "count": 64 },
+        "price": [
+            { "id": "minecraft:coal", "count": 1 }
+        ]
+    },
+    {
+        "title": "Obmen (neskolko predmetov) -> 1 sunduk",
+        "result": { "id": "minecraft:chest", "count": 1 },
+        "price": [
+            { "id": "minecraft:oak_planks", "count": 8 },
+            { "id": "minecraft:iron_ingot", "count": 1 }
+        ]
+    },
+    {
+        "title": "10 treski za 1 izumrud",
+        "result": { "id": "minecraft:emerald", "count": 1 },
+        "price": [
+            { "id": "minecraft:raw_cod", "count": 10 }
+        ]
+    },
+    {
+        "title": "stone 1 for 1 diamond",
+        "result": { "id": "minecraft:stone_1", "count": 1 },
+        "price": [ { "id": "minecraft:diamond", "count": 1 } ]
+    },
+    {
+        "title": "stone 2 for 2 diamond",
+        "result": { "id": "minecraft:stone_2", "count": 2 },
+        "price": [ { "id": "minecraft:diamond", "count": 2 } ]
+    },
+    {
+        "title": "stone 3 for 3 diamond",
+        "result": { "id": "minecraft:stone_3", "count": 3 },
+        "price": [ { "id": "minecraft:diamond", "count": 3 } ]
+    },
+    {
+        "title": "stone 4 for 4 diamond",
+        "result": { "id": "minecraft:stone_4", "count": 4 },
+        "price": [ { "id": "minecraft:diamond", "count": 4 } ]
+    },
+    {
+        "title": "stone 5 for 5 diamond",
+        "result": { "id": "minecraft:stone_5", "count": 5 },
+        "price": [ { "id": "minecraft:diamond", "count": 5 } ]
+    },
+    {
+        "title": "stone 6 for 6 diamond",
+        "result": { "id": "minecraft:stone_6", "count": 6 },
+        "price": [ { "id": "minecraft:diamond", "count": 6 } ]
+    },
+    {
+        "title": "stone 7 for 7 diamond",
+        "result": { "id": "minecraft:stone_7", "count": 7 },
+        "price": [ { "id": "minecraft:diamond", "count": 7 } ]
+    },
+    {
+        "title": "stone 8 for 8 diamond",
+        "result": { "id": "minecraft:stone_8", "count": 8 },
+        "price": [ { "id": "minecraft:diamond", "count": 8 } ]
+    },
+    {
+        "title": "stone 9 for 9 diamond",
+        "result": { "id": "minecraft:stone_9", "count": 9 },
+        "price": [ { "id": "minecraft:diamond", "count": 9 } ]
+    },
+    {
+        "title": "stone 10 for 10 diamond",
+        "result": { "id": "minecraft:stone_10", "count": 10 },
+        "price": [ { "id": "minecraft:diamond", "count": 10 } ]
+    },
+    {
+        "title": "stone 11 for 11 diamond",
+        "result": { "id": "minecraft:stone_11", "count": 11 },
+        "price": [ { "id": "minecraft:diamond", "count": 11 } ]
+    },
+    {
+        "title": "stone 12 for 12 diamond",
+        "result": { "id": "minecraft:stone_12", "count": 12 },
+        "price": [ { "id": "minecraft:diamond", "count": 12 } ]
+    },
+    {
+        "title": "stone 13 for 13 diamond",
+        "result": { "id": "minecraft:stone_13", "count": 13 },
+        "price": [ { "id": "minecraft:diamond", "count": 13 } ]
+    },
+    {
+        "title": "stone 14 for 14 diamond",
+        "result": { "id": "minecraft:stone_14", "count": 14 },
+        "price": [ { "id": "minecraft:diamond", "count": 14 } ]
+    },
+    {
+        "title": "stone 15 for 15 diamond",
+        "result": { "id": "minecraft:stone_15", "count": 15 },
+        "price": [ { "id": "minecraft:diamond", "count": 15 } ]
+    },
+    {
+        "title": "stone 16 for 16 diamond",
+        "result": { "id": "minecraft:stone_16", "count": 16 },
+        "price": [ { "id": "minecraft:diamond", "count": 16 } ]
+    },
+    {
+        "title": "rtyhetregfwd",
+        "result": { "id": "minecraft:stone_64", "count": 64 },
+        "price": [ { "id": "minecraft:diamond", "count": 64 } ]
+    }
+]
