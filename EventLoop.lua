@@ -36,8 +36,8 @@ function EventLoop:run()
             break
         end
 
-        local eventData = table.pack(os.pullEventRaw())
-        local eventData = {table.unpack(eventData, 1, eventData.n)}
+        local eventData = table.pack(coroutine.yield())
+        eventData = {table.unpack(eventData, 1, eventData.n)}
         local eventName = eventData[1]
 
         local waiting = self.waiting[eventName]

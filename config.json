@@ -46,13 +46,6 @@
         ]
     },
     {
-        "title": "10 treski za 1 izumrud",
-        "result": { "id": "minecraft:emerald", "count": 1 },
-        "price": [
-            { "id": "minecraft:raw_cod", "count": 10 }
-        ]
-    },
-    {
         "title": "stone 1 for 1 diamond",
         "result": { "id": "minecraft:stone_1", "count": 1 },
         "price": [ { "id": "minecraft:diamond", "count": 1 } ]
